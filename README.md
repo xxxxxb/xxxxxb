@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm totally a **rookie** from ~~USTB~~ UESTC. 🤷‍♂️
+
+> ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkQl-oPfVjgTpeWvXm39kY4PBXJ_Tb1Y3lLg&usqp=CAU)
+
+
+
+<!-- ![](https://myoctocat.com/assets/images/base-octocat.svg) -->
